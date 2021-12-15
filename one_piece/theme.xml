@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<theme>
+  <format-version>4.0</format-version>
+  <themecolor>0</themecolor>
+  <fontcolor>#FFFFFF00</fontcolor>
+  <fontshadowcolor>#25F00000</fontshadowcolor>
+  <focuscolor>#00FFFFFF</focuscolor>
+  <homescreen-dimmer>#26F00000</homescreen-dimmer>
+  <functionscreen-dimmer>#26F00000</functionscreen-dimmer>
+  <titlename-dimmer>#33F00000</titlename-dimmer>
+  <homebgm-enable>True</homebgm-enable>
+  <label>one-piece</label>
+</theme>
